@@ -1,0 +1,10 @@
+resources
+generated
+bin
+.vscode
+
+*pycache*
+build
+
+thirdparty/glfw/docs
+.DS_Store
